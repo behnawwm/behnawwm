@@ -8,3 +8,11 @@ Check [my website](https://behnawwm.ir) for the full bio there!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behnawwm&theme=cobalt&show_icons=true)](https://behnawwm.ir)
 
+## Featured Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=behnawwm&repo=foodapp&theme=cobalt&show_icons=true)](https://github.com/behnawwm/foodapp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=behnawwm&repo=myphotoloaderapp&theme=cobalt&show_icons=true)](https://github.com/behnawwm/myphotoloaderapp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=behnawwm&repo=mytodoapp&theme=cobalt&show_icons=true)](https://github.com/behnawwm/mytodoapp)
+
+
+
