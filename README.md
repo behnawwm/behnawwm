@@ -10,6 +10,7 @@ Check [my website](https://behnawwm.ir) for the full bio there!
 
 ## Featured Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=behnawwm&repo=watchlist&theme=cobalt)](https://github.com/behnawwm/watchlist)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=behnawwm&repo=foodapp&theme=cobalt)](https://github.com/behnawwm/foodapp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=behnawwm&repo=myphotoloaderapp&theme=cobalt)](https://github.com/behnawwm/myphotoloaderapp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=behnawwm&repo=mytodoapp&theme=cobalt)](https://github.com/behnawwm/mytodoapp)
